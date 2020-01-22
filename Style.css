@@ -1,0 +1,18 @@
+
+        h1{
+            background-color: black;
+            color: whitesmoke;
+            text-align: center;
+        }
+        body{
+            background-color: gray;
+        }
+        h2{
+            color: darkgreen;
+            font-size: 90px;
+        }
+        .red{
+            color: blue;
+        }
+        
+
